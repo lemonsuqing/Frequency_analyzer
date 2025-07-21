@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/selfworlk/project/Frequency_analyzer/build",
+  "command": "D:\\selfworlk\\tool\\C_Tool\\MinGW-W64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Frequency_analyzer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Frequency_analyzer.dir\\Frequency_analyzer_autogen\\mocs_compilation.cpp.obj -c D:\\selfworlk\\project\\Frequency_analyzer\\build\\Frequency_analyzer_autogen\\mocs_compilation.cpp",
+  "file": "D:/selfworlk/project/Frequency_analyzer/build/Frequency_analyzer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Frequency_analyzer.dir/Frequency_analyzer_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/selfworlk/project/Frequency_analyzer/build",
+  "command": "D:\\selfworlk\\tool\\C_Tool\\MinGW-W64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Frequency_analyzer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Frequency_analyzer.dir\\src\\Frequency_analyzer.cpp.obj -c D:\\selfworlk\\project\\Frequency_analyzer\\src\\Frequency_analyzer.cpp",
+  "file": "D:/selfworlk/project/Frequency_analyzer/src/Frequency_analyzer.cpp",
+  "output": "CMakeFiles/Frequency_analyzer.dir/src/Frequency_analyzer.cpp.obj"
+},
+{
+  "directory": "D:/selfworlk/project/Frequency_analyzer/build",
+  "command": "D:\\selfworlk\\tool\\C_Tool\\MinGW-W64\\ucrt64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Frequency_analyzer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Frequency_analyzer.dir\\src\\main.cpp.obj -c D:\\selfworlk\\project\\Frequency_analyzer\\src\\main.cpp",
+  "file": "D:/selfworlk/project/Frequency_analyzer/src/main.cpp",
+  "output": "CMakeFiles/Frequency_analyzer.dir/src/main.cpp.obj"
+}
+]
