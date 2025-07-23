@@ -142,3 +142,12 @@ void Frequency_analyzer::handleError(QSerialPort::SerialPortError error)
         on_closePortButton_clicked();
     }
 }
+
+void Frequency_analyzer::on_clearButton_clicked()
+{
+    // 清空文本浏览器内容
+    ui->textBrowser->clear();
+    
+    // 可选：添加状态提示
+    ui->statusLabel->setText("接收区已清空");
+}

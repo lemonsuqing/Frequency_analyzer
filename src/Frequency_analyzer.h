@@ -20,7 +20,8 @@ public:
 private slots:
     void on_openPortButton_clicked();
     void on_closePortButton_clicked();
-    void on_refreshPortsButton_clicked();  // 新增的刷新按钮槽函数
+    void on_refreshPortsButton_clicked();  // 串口刷新
+    void on_clearButton_clicked();         // 接收区清除
     void readData();
     void handleError(QSerialPort::SerialPortError error);
 

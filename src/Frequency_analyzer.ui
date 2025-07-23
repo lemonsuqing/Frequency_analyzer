@@ -69,6 +69,16 @@
         </widget>
        </item>
        <item>
+        <widget class="QPushButton" name="clearButton">
+         <property name="text">
+          <string>清空接收区</string>
+         </property>
+         <property name="toolTip">
+          <string>清空接收区内容</string>
+         </property>
+        </widget>
+       </item>
+       <item>
         <widget class="QLabel" name="statusLabel">
          <property name="text">
           <string>状态: 未连接</string>
