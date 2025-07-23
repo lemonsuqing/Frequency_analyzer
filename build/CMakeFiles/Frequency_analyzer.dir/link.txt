@@ -1,3 +1,0 @@
-D:\selfworlk\tool\C_Tool\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Frequency_analyzer.dir/objects.a
-D:\selfworlk\tool\C_Tool\MinGW-W64\ucrt64\bin\ar.exe qc CMakeFiles\Frequency_analyzer.dir/objects.a @CMakeFiles\Frequency_analyzer.dir\objects1.rsp
-D:\selfworlk\tool\C_Tool\MinGW-W64\ucrt64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Frequency_analyzer.dir/objects.a -Wl,--no-whole-archive -o Frequency_analyzer.exe -Wl,--out-implib,libFrequency_analyzer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Frequency_analyzer.dir\linkLibs.rsp

@@ -1,5 +1,0 @@
-D:/selfworlk/project/Frequency_analyzer/build/CMakeFiles/Frequency_analyzer.dir
-D:/selfworlk/project/Frequency_analyzer/build/CMakeFiles/edit_cache.dir
-D:/selfworlk/project/Frequency_analyzer/build/CMakeFiles/rebuild_cache.dir
-D:/selfworlk/project/Frequency_analyzer/build/CMakeFiles/Frequency_analyzer_autogen_timestamp_deps.dir
-D:/selfworlk/project/Frequency_analyzer/build/CMakeFiles/Frequency_analyzer_autogen.dir
